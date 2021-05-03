@@ -1,1 +1,1 @@
-# fx2
+Fuxi System fx2
